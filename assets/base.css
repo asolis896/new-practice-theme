@@ -3499,3 +3499,8 @@ details-disclosure > details {
     --border-offset: 0px; /* Prevent the border from growing on buttons when this effect is on. */
   }
 }
+
+.header__heading-link .h2 {
+  color: red;
+  font-size: 40px;
+}
